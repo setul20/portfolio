@@ -1,0 +1,7 @@
+Setul Patel        810635825
+Thatcher Smith     810369492
+
+
+Reflection
+
+	This project at the beginning didnt sound that bad. But as we started working on it, things started becoming more and more complex because of the use of GUI. We had a major hold up because we couldnt get our backgrounds of different menus to work properly for some reason like we added image to our background so we werent able to add anything on top of that. We tried to fix it day after day and asked the professor for help and he did to some extent but what he told us didnt work for us so we were still stuck. So we made the decision that lets just make a simple GUI that does what it needs to be done and not try to make it look pretty because we just didnt have time. Other things that played a role was we were both busy the first week so we didnt get much done that week so we had a week to work on it and finish it. But at the end, everything worked out well, we worked well together and everything worked. We were both happy with the result from the amount of time we put in. 
