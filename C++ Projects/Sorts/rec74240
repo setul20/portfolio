@@ -1,0 +1,10 @@
+proj3:
+total 288
+-rw-r--r--. 1 ugrad   2787 Dec  3 11:23 DataGenerator.cpp
+-rw-r--r--. 1 ugrad    289 Dec  3 11:24 getAverage.cpp
+-rw-r--r--. 1 ugrad    528 Dec  3 11:17 makefile
+-rw-r--r--. 1 ugrad 273835 Dec  3 13:26 proj3report.pdf
+-rw-r--r--. 1 ugrad   1574 Dec  3 11:47 README
+-rw-r--r--. 1 ugrad      0 Dec  3 13:32 rec74240
+-rw-r--r--. 1 ugrad   2854 Dec  3 11:21 sort.cpp
+/home/ugrads/rwilson/CSCI2720/proj3:/home/work/cs2720

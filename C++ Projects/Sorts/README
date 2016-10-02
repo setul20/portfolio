@@ -1,0 +1,29 @@
+Names: 
+Rebecca Wilson
+Setul Patel
+
+
+Instructions on Compiling and Running program: 
+To compile the program, you can run the command: make compile. Alternatively, you can run the following commands: 
+g++ sort.cpp -o sort
+g++ DataGenerator.cpp -o DataGenerator 
+g++ getAverage.cpp -o getAverage
+
+To run sort a single time, you can use the command make run. Alternatively, you can run the following command: 
+./sort [flag] [list of integers to be sorted, separated by 1 space] 
+
+To sort a list compiled by a random number generator, use the command ./DataGenerator. Within DataGenerator.cpp, you can 
+change the number of elements to be sorted and the sorting method in the main method. 
+
+To run DataGenerator 50 times and get the average number of comparisons, use the commands
+make clean (to remove comparison.txt) then make runLoop. The average will print out at the end
+
+
+Statement of Academic Honesty:
+
+The code in this project represents my own work. I have neither received nor given inappropriate assistance. I have not copied 
+or modified code from any source other than the course webpage or the course textbook. I recognize that any unauthorized 
+assistance or plagiarism will be handled in accordance with the University of Georgia's Academic Honesty Policy and the 
+policies of this course. I recognize that my work is based on a programming project created by the Department of Computer 
+Science at the University of Georgia. Any publishing of source code for this project is strictly prohibited without written 
+consent from the Department of Computer Science.

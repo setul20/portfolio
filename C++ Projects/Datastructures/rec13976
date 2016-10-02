@@ -1,0 +1,15 @@
+cs2720-p1/:
+total 44
+-rw-r--r--. 1 ugrad 1265 Sep 27 20:28 ArrayQueue.h
+-rw-r--r--. 1 ugrad 1276 Sep 27 19:39 ArrayStack.h
+-rw-r--r--. 1 ugrad 3713 Sep 25 10:27 LinkedList.h
+-rw-r--r--. 1 ugrad 1468 Sep 27 20:36 LinkedQueue.h
+-rw-r--r--. 1 ugrad 1491 Sep 25 09:44 LinkedStack.h
+-rw-r--r--. 1 ugrad  454 Sep 15 17:40 Makefile
+-rw-r--r--. 1 ugrad 1248 Sep 27 20:15 queue.cpp
+-rw-r--r--. 1 ugrad 1040 Sep 23 16:43 Queue.h
+-rw-r--r--. 1 ugrad   81 Sep 27 20:40 README
+-rw-r--r--. 1 ugrad    0 Sep 27 20:41 rec13976
+-rw-r--r--. 1 ugrad 1207 Sep 27 20:34 stack.cpp
+-rw-r--r--. 1 ugrad 1129 Sep 25 10:59 Stack.h
+/home/ugrads/rwilson/CSCI2720/cs2720-p1/:/home/work/cs2720
