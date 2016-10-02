@@ -1,0 +1,19 @@
+body {
+	background-image: url("background.jpg");
+	background-attachment: fixed;
+	text-align: center;
+}
+
+h1 {
+	font-size: 32pt;
+}
+
+#button {
+	background-color: #008CBA;
+	color: white;
+	padding: 15px 25px;
+	text-align: center;
+	font-size: 12pt;
+	border: none;
+	text-decoration: none;
+}

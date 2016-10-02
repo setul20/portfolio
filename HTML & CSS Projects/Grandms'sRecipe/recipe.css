@@ -1,0 +1,47 @@
+body {
+	color: #404040;
+	font-size: 11pt;
+	font-family: Georgia, Garamond;
+	background-image: url("http://cobweb.cs.uga.edu/~mehdi/teaching/4300/images/silverware.jpg");
+	background-attachment: fixed;
+}
+
+h1 {
+	font-family: Lucida Sans Unicode, Helvetica, Arial;
+	font-size: 22pt;
+	text-align: center;
+	background-color: #F0F0F0;
+	color: #A4A400;
+	letter-spacing: 0.25em;
+	padding-left: 350px;
+	padding-right: 350px;
+	background-clip: content-box;
+}
+
+h2 {
+	font-family: Lucida Sans Unicode, Helvetica, Arial;
+	font-size: 18pt;
+	font-weight: normal;
+	background-color: #F0F0F0;
+	color: #A4A400;
+	letter-spacing: 0.25em;
+	display: inline-block;
+}
+
+ul {
+    list-style-image: url('http://cobweb.cs.uga.edu/~mehdi/teaching/4300/images/pie_icon.gif');
+}
+
+#copy {
+	font-family: monospace;
+	text-align: right;
+	float: left;
+}
+
+.com1 {
+	background-color: #FFFFA8;
+}
+
+.links {
+	color: #A4A400;
+}
