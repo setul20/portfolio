@@ -1,0 +1,6 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Jordan\workspace\NEON\demo\src\main\resources\application.properties,C:\Users\Jordan\workspace\NEON\demo\target\scala-2.10\classes\application.properties)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Jordan\workspace\NEON\demo\src\main\resources\com,C:\Users\Jordan\workspace\NEON\demo\target\scala-2.10\classes\com)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Jordan\workspace\NEON\demo\src\main\resources\static,C:\Users\Jordan\workspace\NEON\demo\target\scala-2.10\classes\static)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Jordan\workspace\NEON\demo\src\main\resources\templates,C:\Users\Jordan\workspace\NEON\demo\target\scala-2.10\classes\templates)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\Jordan\workspace\NEON\demo\src\main\resources\com\example,C:\Users\Jordan\workspace\NEON\demo\target\scala-2.10\classes\com\example)[0m

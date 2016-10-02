@@ -1,0 +1,11 @@
+run
+build
+compile
+inspect
+build
+compile
+build.sbt
+compile
+run
+compile
+exit
